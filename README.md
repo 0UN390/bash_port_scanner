@@ -9,3 +9,10 @@ chmod 755 BASH_port_scanner.sh
 ```
 
 
+usage 
+----------
+```
+./BASH_port_scanner.sh <ip>
+```
+
+
