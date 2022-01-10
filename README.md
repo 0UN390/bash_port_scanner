@@ -18,7 +18,4 @@ usage
 
 example
 ---------
-```
-
-```
-
+![screenshoot](https://user-images.githubusercontent.com/97359380/148722315-c098a1bb-3568-49c7-b636-9daecafe7bec.PNG)
